@@ -1,4 +1,4 @@
-#include "Arbre_vers_dot.h"
+#include "AVL_vers_PDF.h"
 
 static void ecrire_debut(FILE *f){
     fprintf(f, "digraph arbre {\n");
